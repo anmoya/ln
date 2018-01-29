@@ -1,0 +1,72 @@
+.logo {
+    margin-top: 20px;
+    font-size: 40px;
+    
+}
+
+.logo td {
+    border-bottom: 1px solid black;
+}
+
+.line-menu {
+    margin: 20px 0 20px 0;
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.promocion {
+    background: #343333;
+    height: 100%;
+    padding-top: 25px;
+    padding-left: 25px;
+    padding-bottom: 20px;
+    text-align: justify;
+    font-size: 15px;
+    color: aliceblue;
+    align-content: center;
+}
+
+.promocion .book-prom {
+    width: auto;
+    height: 350px;   
+    margin: 0 auto;
+    
+}
+.last-books {
+    margin-top: 40px;
+    text-align: center;
+}
+.last-books .book-cover {
+    height: 200px;
+    width: 140px;
+}
+
+.last-books .book-title {
+    font-weight: bold;
+    font-family: monospace;
+    text-transform: capitalize;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.footer {
+    height: 110%;
+    background-color: #354040;
+    margin-top: 30px;
+    
+}
+
+.footer .row {
+    padding: 20px 0 20px 0;
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer ul {
+    color: white;
+    list-style: none;
+}
